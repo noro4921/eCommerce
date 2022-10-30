@@ -1,5 +1,5 @@
 export default {
-  name: "prodcut",
+  name: "product",
   title: "Product",
   type: "document",
   fields: [
